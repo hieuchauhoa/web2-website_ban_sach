@@ -30,6 +30,7 @@ Phần mềm chạy tốt với độ phân giải màn hình chuẩn của máy
 
 ```
 2. Chạy web bằng đường dẫn: "http://localhost/web2-website_ban_sach"
+```
 
 ## Một số giao diện của website
 
