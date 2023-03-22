@@ -29,5 +29,11 @@ Phần mềm chạy tốt với độ phân giải màn hình chuẩn của máy
 ```
 
 ```
-2. Chạy web bằng đường dẫn: "http://localhost/web2-website_ban_sach
-/"
+2. Chạy web bằng đường dẫn: "http://localhost/web2-website_ban_sach"
+
+## Một số giao diện của website
+
+![img2.png](imgReadme/img2.png)
+![img3.png](imgReadme/img3.png)
+![img4.png](imgReadme/img4.png)
+
